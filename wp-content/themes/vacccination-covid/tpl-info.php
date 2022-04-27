@@ -9,6 +9,8 @@
 <div class="row">
 <div class="mt-4 mb-4">
 <h2><?php the_title(); ?></h2>
+<div><?php the_content(); ?></div>
+
 
 <div class="text-right font-italic">Publié le <?php the_time('d/m/Y') ?></div>
 </div>

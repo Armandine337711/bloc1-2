@@ -118,7 +118,7 @@ wp-content/uploads
 wp-includes/
 
 .htaccess
-index.php
+
 license.txt
 readme.html
 wp-*.php
